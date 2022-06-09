@@ -60,8 +60,8 @@ async def beck(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE", url="github.com/1Danish-00/"),
-                Button.url("DEVELOPER", url="t.me/danish_00"),
+                Button.url("YT💞", url="https://youtube.com/channel/UC37pdrWxYo_fPAQZ3xd3wtQ"),
+                Button.url("DEVELOPER💕", url="t.me/iM_Arceus"),
             ],
         ],
     )
@@ -73,10 +73,10 @@ async def sencc(e):
         "Choose Mode",
         buttons=[
             [
-                Button.inline("Default Compress", data=f"encc{key}"),
-                Button.inline("Custom Compress", data=f"ccom{key}"),
+                Button.inline("Default 🗜️", data=f"encc{key}"),
+                Button.inline("Custom 🗜️", data=f"ccom{key}"),
             ],
-            [Button.inline("Back", data=f"back{key}")],
+            [Button.inline("Back🎈", data=f"back{key}")],
         ],
     )
 
@@ -87,10 +87,10 @@ async def back(e):
         "🐠  **What To Do** 🐠",
         buttons=[
             [
-                Button.inline("GENERATE SAMPLE", data=f"gsmpl{key}"),
-                Button.inline("SCREENSHOTS", data=f"sshot{key}"),
+                Button.inline("GENERATE SAMPLE📌", data=f"gsmpl{key}"),
+                Button.inline("SCREENSHOTS❤️", data=f"sshot{key}"),
             ],
-            [Button.inline("COMPRESS", data=f"sencc{key}")],
+            [Button.inline("COMPRESS💕", data=f"sencc{key}")],
         ],
     )
 
