@@ -33,8 +33,8 @@ async def start(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE", url="github.com/1Danish-00/CompressorBot"),
-                Button.url("DEVELOPER", url="t.me/danish_00"),
+                Button.url("YT💞", url="https://youtube.com/channel/UC37pdrWxYo_fPAQZ3xd3wtQ"),
+                Button.url("DEVELOPER💕", url="t.me/iM_Arceus"),
             ],
         ],
     )
